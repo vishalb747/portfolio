@@ -24,25 +24,30 @@
 
 <script lang="ts" setup>
 const links = [
-  {
-    name: "Twitter",
-    url: "https://twitter.com/fayazara",
-    icon: "mdi:twitter",
-  },
+  // {
+  //   name: "Twitter",
+  //   url: "https://twitter.com/fayazara",
+  //   icon: "mdi:twitter",
+  // },
   {
     name: "GitHub",
-    url: "https://github.com/fayazara",
+    url: "https://github.com/ankit031",
     icon: "mdi:github",
   },
   {
     name: "Linkedin",
-    url: "https://www.linkedin.com/in/fayaz-aralikatti/",
+    url: "https://www.linkedin.com/in/ankitranjansinha/",
     icon: "mdi:linkedin",
   },
+  // {
+  //   name: "Telegram",
+  //   url: "https://t.me/fayazara",
+  //   icon: "mdi:telegram",
+  // },
   {
-    name: "Telegram",
-    url: "https://t.me/fayazara",
-    icon: "mdi:telegram",
+    name: "Instagram",
+    url: "https://www.instagram.com/ankit.sinha031/",
+    icon: "mdi:instagram",
   },
 ];
 </script>
